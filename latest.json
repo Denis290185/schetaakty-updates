@@ -1,0 +1,6 @@
+{
+  "version": "1.7.1",
+  "url": "https://github.com/Denis290185/schetaakty-updates/raw/main/SchetaAkty-Setup-1.7.1.exe",
+  "sha256": "61b6bd785d08cee0bf29d607dd2f045fcf6b9fa2a86452e699e7c77a51e30771",
+  "notes": "- Вкладка «ИС ЭСФ»: кнопки «Сохранить» и «Проверить вход» наверху — раньше уходили за край окна.\n- «О программе»: ссылка на Telegram-чат поддержки."
+}
